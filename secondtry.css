@@ -5,14 +5,14 @@
  body {
     font-size: 18px;
     color: #777;
-    width: 91%;
+    width: 1200px;
     background-color:#777;
 
 
  }
   header {
     background: #ebebeb;
-    width: 91%;
+    width: 960px;
     height:60px;
     padding: 20px;
     margin-bottom: 10px;
@@ -21,7 +21,7 @@
   }
   #nav {
     background: #ebebeb;
-    width: 91%;
+    width: 960px;
     height:60px;
     padding: 20px;
     margin-bottom: 10px;
@@ -29,7 +29,7 @@
     margin-right:80px;
   }
   section{
-    width: 50%;
+    width: 495px;
     height: 320px;
     padding: 30px;
     margin-bottom: 10px;
@@ -40,7 +40,7 @@
 
   }
   #article {
-    width: 90%;
+    width: 385px;
     height:220px;
     background: #777;
     color: #ebebeb;
@@ -52,38 +52,38 @@
 
   }
   #heads{
-    width: 90%;
+    width: 330px;
     height:60px;
     background: #ebebeb;
     color: #777;
     margin-bottom: 10px;
-    margin-left:30px;
+    margin-left:15px;
     margin-bottom: 15px;
     margin-top: 28px;
   }
   #p {
-    width: 90%;
+    width: 330px;
     height:60px;
     padding: 20px;
     margin-bottom: 10px;
     background: #ebebeb;
     color: #777;
     margin-bottom: 15px;
-    margin-left: 30px;
+    margin-left: 15px;
   }
   aside {
     float: left;
-    width: 39%;
+    width: 456px;
     height:320px;
     padding: 30px;
     margin-bottom: 10px;
-    margin-right:46px;
     background: #ebebeb;
     color: #777;
+    margin-left: 10px
   }
  footer{
     background: #ebebeb;
-    width: 91%;
+    width: 960px;
     height:60px;
     padding: 20px;
     margin-bottom: 10px;
